@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rennerak
 - 👀 I’m interested in immunoinformatics, infectiology research, and enthusiastic about chocolate and coding. 
-- 🌱 I’m currently completing a masters in molecular medicine and strengthening my coding skills.
+- 🌱 I have just completed a masters in molecular medicine and I am currently strengthening my coding skills.
 
 
 <!---
