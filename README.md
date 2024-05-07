@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rennerak
-- 👀 I’m interested in immunoinformatics, infectiology research, and enthusiastic about chocolate and coding. 
-- 🌱 I have just completed a masters in molecular medicine and I am currently strengthening my coding skills.
+- 👋 Hi, I’m Anna @rennerak
+- 👀 I’m interested in bioinformatics, infectiology & immunology research, and enthusiastic about chocolate and coding. 
+- 🌱 I have completed a masters in molecular medicine with practical research experience in wet and dry lab supporting development of a deep learning model for quantifying pathogen growth in an innovative organ-on-chip model. This ignited my passion for bioinformatics, and I'm now enhancing my coding skills alongside my role as a research associate.
 
 
 <!---
