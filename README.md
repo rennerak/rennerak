@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anna @rennerak
-- 👀 I’m interested in bioinformatics, infectiology & immunology research, and enthusiastic about chocolate, drawing and coding. 
-- 🌱 I have completed a masters in molecular medicine with practical research experience in wet and dry lab. My journey through bioinformatic analysis during my master's thesis sparked a high passion for bioinformatics. Now, as a research associate, I'm fueling that passion by sharpening my coding skills.
+- 👀 I’m interested in computational biology research with a focus on immunology and respiratory diseases, and enthusiastic about chocolate, drawing and coding. 
+- 🌱 I have completed a masters in molecular medicine with practical research experience in wet and dry lab. Currently I am following my passion for bioinformatics and I am complementing my master's with advanced courses from the master's program in Applied Bioinformatics. My journey through bioinformatic analysis during my master's thesis sparked a high passion for bioinformatics. Now, as a research assistant in High Performance Computing, I'm fueling that passion by sharpening my coding skills.
 - 💬 Always happy to chat about research and coding. Please feel free to reach out! 
 
 <!---
